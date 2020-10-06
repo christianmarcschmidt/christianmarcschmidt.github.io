@@ -2,8 +2,6 @@
 
 2020 has become a watershed year, not least due to the pandemic. Instead of bringing the world community closer together in the face of a shared global threat, we have become further divided across national, racial and ideological lines. How then, in this era of identity politics, can we leverage diverse and international perspectives to generate new thinking and new solutions? How can we come together to solve the big challenges of our time? 
 
-Design can help.
-
 ## More information does not equal more understanding
 
 While we have more information at our fingertips than ever before, there is also ever greater disagreement around big, important societal issues. It is undeniable that the Internet has leveled the playing field around obtaining information throughout all strata of society. However, greater access and the ease of publishing information online has also made it easier for misinformation to flourish.
