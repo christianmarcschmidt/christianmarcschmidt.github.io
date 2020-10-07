@@ -1,4 +1,4 @@
-# Things that Spark Conversation
+# Sparking Conversation
 
 2020 has become a watershed year, not least due to the pandemic. Instead of bringing the world community closer together in the face of a shared global threat, we have become further divided across national, racial and ideological lines. How then, in this era of identity politics, can we leverage diverse and international perspectives to generate new thinking and new solutions? How can we come together to solve the big challenges of our time? 
 
